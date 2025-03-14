@@ -30,9 +30,6 @@ Active Noise Cancellation (ANC) is a technique used to reduce unwanted backgroun
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For inquiries, reach out via [GitHub Issues](https://github.com/neeraj1014/Active-Noise-Cancellation/issues).
 
